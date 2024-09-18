@@ -1,1 +1,4 @@
 # git-branches2
+
+# Lorem do branch dev3
+Suspendisse potenti. Cras tempor lorem neque, at ultricies felis rhoncus ut. Mauris volutpat vulputate mi, non ornare risus rhoncus eget. Aenean sit amet diam quis mauris ultrices placerat. Vestibulum nec nulla a est lobortis luctus. Suspendisse elementum mattis mi, ac consequat mauris congue sit amet. Donec malesuada in lectus eget porttitor. Quisque ultrices sapien non justo suscipit viverra. Nam quis nunc non enim fermentum pulvinar eget eget magna. Suspendisse enim felis, consequat quis tortor a, commodo pretium purus. Nullam eget velit sagittis, tincidunt odio sit amet, blandit augue. In blandit mi sed aliquet aliquet. Etiam tincidunt risus diam, ut ullamcorper purus lobortis id.
