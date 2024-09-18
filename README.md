@@ -1,7 +1,1 @@
-# git-branches2
-## Lorem do branch main
-Nulla sollicitudin purus pulvinar ipsum vestibulum convallis. Nulla sed ullamcorper ipsum, vel hendrerit dui. Fusce tempus lacus a nulla suscipit interdum. Vestibulum purus dolor, aliquet eget cursus sed, lobortis sed diam. Quisque ac tortor pretium, sodales libero ut, pharetra mauris. Vivamus eget justo eget justo dictum efficitur. Cras lobortis auctor quam a rhoncus.
-
-# git-branches
-## Lorem do branch dev1
-Donec congue ante vitae faucibus tempor. Praesent vel nisi quis mauris aliquam pulvinar non at neque. Etiam ut posuere nisl. Curabitur pretium aliquam pharetra. Morbi tristique lacinia urna, eget scelerisque est aliquam sed. Maecenas gravida tellus a nibh congue, id tempor dui vulputate. Suspendisse faucibus velit eget mi semper luctus. Mauris sagittis est ac orci auctor ullamcorper. Integer in luctus dui. Sed faucibus leo id viverra iaculis. Aliquam posuere nisi a ex convallis, a semper enim imperdiet. Aliquam ultricies tristique velit, sed consectetur dolor placerat eu. Aliquam scelerisque facilisis tellus, vitae imperdiet felis rhoncus a. Aenean elementum nulla urna, eu suscipit turpis finibus et. Nullam ligula dui, vulputate efficitur tempus id, porta vitae arcu.
+# Sou um branch que será excluido
