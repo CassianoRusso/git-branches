@@ -1,7 +1,11 @@
-# git-branches2
 ## Lorem do branch dev3
 Suspendisse potenti. Cras tempor lorem neque, at ultricies felis rhoncus ut. Mauris volutpat vulputate mi, non ornare risus rhoncus eget. Aenean sit amet diam quis mauris ultrices placerat. Vestibulum nec nulla a est lobortis luctus. Suspendisse elementum mattis mi, ac consequat mauris congue sit amet. Donec malesuada in lectus eget porttitor. Quisque ultrices sapien non justo suscipit viverra. Nam quis nunc non enim fermentum pulvinar eget eget magna. Suspendisse enim felis, consequat quis tortor a, commodo pretium purus. Nullam eget velit sagittis, tincidunt odio sit amet, blandit augue. In blandit mi sed aliquet aliquet. Etiam tincidunt risus diam, ut ullamcorper purus lobortis id.
 
-# git-branches
 ## Lorem do branch dev2
 Donec ut elementum libero. Donec eget justo dui. Aenean leo libero, iaculis quis consequat eu, vestibulum sit amet erat. Nullam mattis lorem risus, non vulputate lacus pharetra ac. Aliquam congue mauris lacus, sed mattis nunc tristique nec. Etiam nec risus facilisis, pellentesque lectus vel, consequat sem. Vestibulum nulla dolor, venenatis et pulvinar nec, feugiat nec nisi. Nam eu dolor ac tortor varius laoreet at nec tortor. Aenean ac metus efficitur, sollicitudin velit ut, vestibulum elit. Cras bibendum nulla et leo feugiat feugiat. Quisque augue sapien, lacinia eget viverra sed, mollis vitae mi. Quisque interdum urna eget sem pellentesque, eget euismod justo congue.
+
+## Lorem do branch main
+Nulla sollicitudin purus pulvinar ipsum vestibulum convallis. Nulla sed ullamcorper ipsum, vel hendrerit dui. Fusce tempus lacus a nulla suscipit interdum. Vestibulum purus dolor, aliquet eget cursus sed, lobortis sed diam. Quisque ac tortor pretium, sodales libero ut, pharetra mauris. Vivamus eget justo eget justo dictum efficitur. Cras lobortis auctor quam a rhoncus.
+
+## Lorem do branch dev1
+Donec congue ante vitae faucibus tempor. Praesent vel nisi quis mauris aliquam pulvinar non at neque. Etiam ut posuere nisl. Curabitur pretium aliquam pharetra. Morbi tristique lacinia urna, eget scelerisque est aliquam sed. Maecenas gravida tellus a nibh congue, id tempor dui vulputate. Suspendisse faucibus velit eget mi semper luctus. Mauris sagittis est ac orci auctor ullamcorper. Integer in luctus dui. Sed faucibus leo id viverra iaculis. Aliquam posuere nisi a ex convallis, a semper enim imperdiet. Aliquam ultricies tristique velit, sed consectetur dolor placerat eu. Aliquam scelerisque facilisis tellus, vitae imperdiet felis rhoncus a. Aenean elementum nulla urna, eu suscipit turpis finibus et. Nullam ligula dui, vulputate efficitur tempus id, porta vitae arcu.
